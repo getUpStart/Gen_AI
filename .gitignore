@@ -1,0 +1,11 @@
+*.pyc
+.idea/sonarlint/
+.idea/inspectionProfiles/
+gen/
+venv/
+.env
+__pycache__
+.pytest_cache/
+.git
+*.egg-info
+build/
