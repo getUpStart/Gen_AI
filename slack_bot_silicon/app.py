@@ -5,7 +5,7 @@ import openai
 from openai.error import OpenAIError
 
 # Set up the OpenAI API key (replace with your actual key)
-openai.api_key = "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"
+openai.api_key = ""
 
 # Initialize Slack client with your bot token (replace with your actual Slack token)
 slack_token = 'xoxb-8511974076759-8527548612163-Pt74f3Trjv5nGgAJZemDhySN'
